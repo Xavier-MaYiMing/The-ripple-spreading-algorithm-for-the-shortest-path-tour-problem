@@ -1,4 +1,4 @@
-### The Ripple-Spreading Algorithm for the Shortest Path Problem
+### The Ripple-Spreading Algorithm for the Shortest Path Tour Problem
 
 ##### Reference: Ma Y M, Zhou H, Hu X B. An efficient nature-inspired method to solve the shortest path tour problem[C]//2021 IEEE Symposium Series on Computational Intelligence (SSCI). IEEE, 2021: 1-6.
 
