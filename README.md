@@ -27,9 +27,7 @@ The shortest path tour problem aims to find the shortest path that traverses mul
 
 #### Example
 
-![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-shortest-path-tour-problem/blob/main/SPTP_example.png)
-
-The SPTP example has four disjoint node subsets: $\{0\}, \{1, 3\}, \{4, 5\}, \{6\}$. The aim is to find the shortest path from node 0 to node 6 that traverse at least one node in $\{1, 3\}$ and $\{4, 5\}$. The optimal solution of the SPTP is $0\rightarrow3\rightarrow4\rightarrow6$.
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-shortest-path-tour-problem/blob/main/SPTP%20example.png)
 
 ```python
 if __name__ == '__main__':
