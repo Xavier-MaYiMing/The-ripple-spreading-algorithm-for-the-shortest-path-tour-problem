@@ -5,7 +5,6 @@
 # @Email   : xavier_mayiming@163.com
 # @File    : RSA4SPTP.py
 # @Statement : The ripple-spreading algorithm for the shortest path tour problem
-# @Reference : Ma Y M, Zhou H, Hu X B. An efficient nature-inspired method to solve the shortest path tour problem[C]//2021 IEEE Symposium Series on Computational Intelligence (SSCI). IEEE, 2021: 1-6.
 import copy
 
 
